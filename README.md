@@ -1,1 +1,1 @@
-# My React Project
+# Simple Landing Page
